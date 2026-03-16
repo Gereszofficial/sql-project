@@ -1,0 +1,19 @@
+# frontend
+node_modules/
+dist/
+.env
+
+# vscode
+.vscode/
+
+# visual studio
+.vs/
+
+# .net
+bin/
+obj/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
